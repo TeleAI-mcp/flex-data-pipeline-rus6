@@ -1,2 +1,3 @@
-# flex-data-pipeline-rus6
-Automated issue comment bot repository
+# Flex Data Pipeline Rus6
+
+Automated issue comment bot repository.
